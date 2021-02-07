@@ -1,8 +1,8 @@
 OpenCart
 ======
-Модуль оплаты Payeer
+Payeer payment module
 
-Для установки модуля скачайте и распакуйте архив.
-Далее следуйте прилагаемой инструкции
+To install the module, download and unpack the archive.
+Then follow the attached instructions
 
-Поддерживаемая версия CMS OpenCart 1.5.6.x
+Supported CMS OpenCart version 1.5.6.x 
